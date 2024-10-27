@@ -17,7 +17,6 @@ Layoffs Data: The primary data source for this data is the “layoffs.csv” fil
 
 ### Tools
 - SQL
-- Tableau
 
 ### Data Preparation
 As part of the ‘cleaning’ process, I performed the following tasks;
