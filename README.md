@@ -26,6 +26,7 @@ As part of the ‘cleaning’ process, I performed the following tasks;
 - Remove any unnecessary columns and rows
 
 ### Data Analysis
+Highlighting the steps taken to remove duplicates.
 - Step 1: In order to inspect for the presence of duplicates, I first created a "staging" version of the "layoffs.csv" so as to keep a spare in the event of any irreversible changes;
 ```SQL
 CREATE TABLE layoffs_staging
@@ -85,3 +86,5 @@ When venturing into data cleaning or standardization projects, ensure to outline
 
 ### Limitations
 With data sourced from the around the globe, from different companies in different countries at different stages, it is not uncommon for the reported data to only closely resemble the true story. Thus number of layoffs recorded does not accurately represent the extent to which the covid pandemic truly affected the global workforce and the global economy at large.
+
+🃏
