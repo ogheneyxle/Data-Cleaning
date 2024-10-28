@@ -85,6 +85,6 @@ While this was a simple data cleaning project, it was clear that some of the dat
 When venturing into data cleaning or standardization projects, ensure to outline the basic tasks you which to accomplish. For example, as a rule of thumb, always look out for duplicates as most times, these will skew your final analysis. You should also look out for null values or empty cells and assess them, deciding whether to populate or delete such rows, as these can also affect your results as well.
 
 ### Limitations
-With data sourced from the around the globe, from different companies in different countries at different stages, it is not uncommon for the reported data to only closely resemble the true story. Thus number of layoffs recorded does not accurately represent the extent to which the covid pandemic truly affected the global workforce and the global economy at large.
+With data sourced from around the globe, from different companies in different countries at different stages, it is not uncommon for the reported data to only closely resemble the true story. Thus number of layoffs recorded does not accurately represent the extent to which the covid pandemic truly affected the global workforce and the global economy at large.
 
 🃏
