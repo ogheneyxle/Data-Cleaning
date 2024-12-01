@@ -16,7 +16,7 @@ This data analysis project involved the sorting, standardization and all-round c
 Layoffs Data: The primary data source for this data is the “layoffs.csv” file, containing detailed information regarding how many layoffs a company made per year, per location.
 
 ### Tools
-- SQL
+- MySQL
 
 ### Data Preparation
 As part of the ‘cleaning’ process, I performed the following tasks;
